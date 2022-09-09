@@ -1,0 +1,49 @@
+'''
+print('Hello\nFrend')
+'''
+'''
+name = input('Введите ваше имя:').lower()
+print(name.lower())
+'''
+'''
+string = ' '
+stin2 = 'Привет'
+stin3 = 'пайтон'
+s = string + stin2 + 'мир'
+print(s) 
+'''
+'''
+name = input('Введите ваше имя:').lower()
+'''
+'''
+a = 'Привет мир'.upper()
+print(a)
+
+'''
+'''
+print('Hello'.upper('+'  '+'  to the world'.lower()) 
+'''
+'''
+a = True
+print(type(a))
+b = 123
+print(type(b))
+'''
+'''
+a = "kak dela?"
+b = "y tebya?"
+print(a.upper() + "\n " + b.lower())
+
+'''
+'''
+a = 'HELLO'
+b = 'frend'
+print(a.upper() + '\n' + b.lower())
+'''
+
+'''
+a = 'Github'
+b = input('Введи символ: ')
+print(b.join(a))
+
+'''
